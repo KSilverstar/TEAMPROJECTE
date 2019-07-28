@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16A323" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Dispatch" representedClassName="Dispatch" syncable="YES" codeGenerationType="class">
+        <attribute name="address_destination" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="address_location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="car_color" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="car_make" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="car_model" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="car_year" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dispatch_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="first_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="last_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status_time" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="user_image" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Dispatch" positionX="-63" positionY="-18" width="128" height="255"/>
+    </elements>
+</model>

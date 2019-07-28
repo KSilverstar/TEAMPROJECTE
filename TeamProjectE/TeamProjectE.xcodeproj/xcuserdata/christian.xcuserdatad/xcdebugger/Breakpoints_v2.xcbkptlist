@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamProjectE/AddDispatchViewController.swift"
+            timestampString = "585933122.536853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "submitNewReocrd(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamProjectE/AddDispatchViewController.swift"
+            timestampString = "585933122.536853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "submitNewReocrd(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../.Trash/EditDispatchViewController.swift"
+            timestampString = "585928228.219571"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamProjectE/DispatchDetailViewController.swift"
+            timestampString = "585933122.536853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DispatchDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.addressLocationLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585900146.254951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.addressLocationLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585900146.276203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TeamProjectE.DispatchDetailViewController"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585900146.2912281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TeamProjectE.DispatchDetailViewController&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585900146.305827"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamProjectE/DispatchDetailViewController.swift"
+            timestampString = "585933122.536853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DispatchDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.vehicleMakeLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585901408.184003"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.vehicleMakeLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585901408.20298"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TeamProjectE.DispatchDetailViewController"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585901408.2178971"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "410">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TeamProjectE.DispatchDetailViewController&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585901408.235972"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "333">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamProjectE/DispatchDetailViewController.swift"
+            timestampString = "585933122.536853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "DispatchDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.dispatchedColor.getter : __ObjC.UIColor"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585926294.841681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.dispatchedColor.setter : __ObjC.UIColor"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585926294.855888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TeamProjectE.DispatchDetailViewController"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585926294.867847"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1069">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeamProjectE.DispatchDetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TeamProjectE.DispatchDetailViewController&gt;"
+                  moduleName = "TeamProjectE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christian/Desktop/TeamProjectE/TeamProjectE/DispatchDetailViewController.swift"
+                  timestampString = "585926294.8791111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "965">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamProjectE/DispatchDetailViewController.swift"
+            timestampString = "585933080.0667191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "configureDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
